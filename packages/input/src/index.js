@@ -13,6 +13,7 @@ const StyledLabel = styled.label`
   text-transform: uppercase;
 `;
 
+
 const StyledInput = styled.input`
   background-color: transparent;
   border-radius: 4px;
