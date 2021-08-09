@@ -7,7 +7,7 @@
   "version": "independent",
   "command": {
     "publish": {
-      "registry": "https://npm.pkg.github.com/mauriciorf",
+      "registry": "https://npm.pkg.github.com/ramirezfmau/",
       "ignoreChanges": [
         ".babelrc",
         ".eslintrc.js",
