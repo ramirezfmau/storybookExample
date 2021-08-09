@@ -4,5 +4,18 @@
   ],
   "npmClient": "yarn",
   "useWorkspaces": true,
-  "version": "independent"
+  "version": "independent",
+  "command": {
+    "publish": {
+      "registry": "https://npm.pkg.github.com/mauriciorf",
+      "ignoreChanges": [
+        ".babelrc",
+        ".eslintrc.js",
+        "babel.config.js",
+        "*.stories.js",
+        "*.test.js",
+        "README.md"
+      ]
+    }
+  }
 }
