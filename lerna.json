@@ -7,7 +7,7 @@
   "version": "independent",
   "command": {
     "publish": {
-      "registry": "https://github.com/ramirezfmau/",
+      "registry": "https://github.com/ramirezfmau/sharedpackages/",
       "ignoreChanges": [
         ".babelrc",
         ".eslintrc.js",
