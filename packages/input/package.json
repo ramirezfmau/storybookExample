@@ -1,5 +1,5 @@
 {
-  "name": "input",
+  "name": "button",
   "version": "1.0.7",
   "description": "Modular and customizable Design UI components for the web",
   "private": false,
@@ -35,5 +35,5 @@
     "react-dom": "^15.0.0 || ^16.0.0",
     "styled-components": "^5.0.0"
   },
-  "gitHead": "4e17da2aa73c547c272bce800cbeb4ea1e559908"
+  "gitHead": "d3bfc056131e6e758b9e1db3e60d93c68f89edee"
 }
