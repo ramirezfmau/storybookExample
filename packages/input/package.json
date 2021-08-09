@@ -35,5 +35,8 @@
     "react-dom": "^15.0.0 || ^16.0.0",
     "styled-components": "^5.0.0"
   },
-  "gitHead": "b0e1098f82de6b1def67ac0289aff8072b99e093"
+  "publishConfig": {
+    "@ramirezfmau:registry": "https://npm.pkg.github.com"
+  },
+  "gitHead": "e785afeef1afb5707b626b89611dd81e11bfef73"
 }
