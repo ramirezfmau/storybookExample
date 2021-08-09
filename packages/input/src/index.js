@@ -28,7 +28,6 @@ const StyledInput = styled.input`
   padding: 10px;
   /* margin: ${spacing.extraSmall} 0 ${spacing.small}; */
   width: 100%;
-
   ::placeholder {
     color: #999;
   }
