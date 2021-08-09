@@ -28,6 +28,17 @@
       "git add"
     ]
   },
+  "bugs": {
+    "url": "https://github.com/ramirezfmau/storybookExample/issues",
+    "email": "ramirezfmau@gmail.com"
+  },
+  "author": "Mauricio Ramirez ramirezfmau@gmail.com",
+  "homepage": "https://github.com/ramirezfmau/storybookExample#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramirezfmau/storybookExample.git",
+    "directory": "packages/input"
+  },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.8.4",
