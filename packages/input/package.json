@@ -1,5 +1,5 @@
 {
-  "name": "button",
+  "name": "@ramirezfmau/button",
   "version": "1.0.29",
   "description": "Modular and customizable Design UI components for the web",
   "private": false,
@@ -14,14 +14,14 @@
     "lib": "lib"
   },
   "bugs": {
-    "url": "https://github.com/sharedpackagesfl/test/repositories/issues",
+    "url": "https://github.com/ramirezfmau/sharedpackages/issues",
     "email": "ramirezfmau@gmail.com"
   },
   "author": "Mauricio Ramirez ramirezfmau@gmail.com",
-  "homepage": "https://github.com/sharedpackagesfl/test/repositories#readme",
+  "homepage": "https://github.com/ramirezfmau/sharedpackages#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sharedpackagesfl/test/repositories.git",
+    "url": "git+https://github.com/ramirezfmau/sharedpackages.git",
     "directory": "packages/input"
   },
   "dependencies": {
@@ -39,7 +39,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "publishConfig": {
-    "@ramirezfmau:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/"
   },
-  "gitHead": "c9dc7ce6946d724babcad41d4dc685a50f028b7b"
+  "gitHead": "18fdf30d2182ae910c718d4f486604aa6fbbc4be"
 }
