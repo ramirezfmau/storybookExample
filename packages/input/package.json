@@ -1,5 +1,5 @@
 {
-  "name": "input",
+  "name": "buttonclear",
   "version": "1.0.25",
   "description": "Modular and customizable Design UI components for the web",
   "private": false,
@@ -41,5 +41,5 @@
   "publishConfig": {
     "@ramirezfmau:registry": "https://npm.pkg.github.com"
   },
-  "gitHead": "602171306b8dbf3271ee10e279fb88cc49fdd924"
+  "gitHead": "bf274dad62536908e9343629ae5a0a62212cf5a7"
 }
