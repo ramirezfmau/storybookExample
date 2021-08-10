@@ -1,5 +1,5 @@
 {
-  "name": "input",
+  "name": "@mauriciorf/input",
   "version": "1.0.21",
   "description": "Modular and customizable Design UI components for the web",
   "private": false,
@@ -35,8 +35,10 @@
     "react-dom": "^15.0.0 || ^16.0.0",
     "styled-components": "^5.0.0"
   },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "publishConfig": {
     "@ramirezfmau:registry": "https://npm.pkg.github.com"
-  },
-  "gitHead": "efe7e5837661be82364e8a5970b12347cc0d9ba2"
+  }
 }
