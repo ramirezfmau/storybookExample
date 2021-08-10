@@ -14,7 +14,10 @@
     "lib": "lib"
   },
   "author": "Mauricio Ramirez ramirezfmau@gmail.com",
-  "homepage": "https://github.com/ramirezfmau/packages/button",
+  "homepage": "https://github.com/ramirezfmau/storybookExample/packages/button#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "dependencies": {
     "prop-types": "15.7.2",
     "react": "16.12.0",
@@ -26,5 +29,5 @@
     "react-dom": "^15.0.0 || ^16.0.0",
     "styled-components": "^5.0.0"
   },
-  "gitHead": "bf2a6fdfe7c9bbd76ea9b5839c306dc2222f9dd7"
+  "gitHead": "079e7f2f52aeae5cba0b964650e0a34a2b374d71"
 }
