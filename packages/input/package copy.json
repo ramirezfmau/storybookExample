@@ -13,8 +13,17 @@
   "directories": {
     "lib": "lib"
   },
+  "bugs": {
+    "url": "https://github.com/ramirezfmau/sharedpackages/issues",
+    "email": "ramirezfmau@gmail.com"
+  },
   "author": "Mauricio Ramirez ramirezfmau@gmail.com",
-  "homepage": "https://github.com/ramirezfmau/packages/button",
+  "homepage": "https://github.com/ramirezfmau/sharedpackages#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramirezfmau/sharedpackages.git",
+    "directory": "packages/input"
+  },
   "dependencies": {
     "prop-types": "15.7.2",
     "react": "16.12.0",
@@ -25,6 +34,12 @@
     "react": "^15.0.0 || ^16.0.0",
     "react-dom": "^15.0.0 || ^16.0.0",
     "styled-components": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "gitHead": "acd82dedceb6a03efd59ad4c41bb478d56276146"
 }
