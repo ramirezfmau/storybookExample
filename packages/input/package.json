@@ -1,5 +1,5 @@
 {
-  "name": "buttonclear",
+  "name": "button",
   "version": "1.0.26",
   "description": "Modular and customizable Design UI components for the web",
   "private": false,
@@ -41,5 +41,5 @@
   "publishConfig": {
     "@ramirezfmau:registry": "https://npm.pkg.github.com"
   },
-  "gitHead": "bf274dad62536908e9343629ae5a0a62212cf5a7"
+  "gitHead": "651f9a610a9afa58786d78b2bd3cb3e913684764"
 }
