@@ -1,5 +1,5 @@
 {
-  "name": "@ramirezfmau/button",
+  "name": "button",
   "version": "1.0.38",
   "description": "Modular and customizable Design UI components for the web",
   "private": false,
@@ -26,5 +26,5 @@
     "react-dom": "^15.0.0 || ^16.0.0",
     "styled-components": "^5.0.0"
   },
-  "gitHead": "a1716413099ea44da7674d9309f7c7e5fdd101a5"
+  "gitHead": "bf2a6fdfe7c9bbd76ea9b5839c306dc2222f9dd7"
 }
