@@ -14,14 +14,14 @@
     "lib": "lib"
   },
   "bugs": {
-    "url": "https://github.com/ramirezfmau/storybookExample/issues",
+    "url": "https://github.com/sharedpackagesfl/test/repositories/issues",
     "email": "ramirezfmau@gmail.com"
   },
   "author": "Mauricio Ramirez ramirezfmau@gmail.com",
-  "homepage": "https://github.com/ramirezfmau/storybookExample#readme",
+  "homepage": "https://github.com/sharedpackagesfl/test/repositories#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ramirezfmau/storybookExample.git",
+    "url": "git+https://github.com/sharedpackagesfl/test/repositories.git",
     "directory": "packages/input"
   },
   "dependencies": {
@@ -41,5 +41,5 @@
   "publishConfig": {
     "@ramirezfmau:registry": "https://npm.pkg.github.com"
   },
-  "gitHead": "2946edf7541c3cfd08b005f0d717e2e182a2871e"
+  "gitHead": "67cf76d631eb7b048cbce4d9d7b168354169e53c"
 }

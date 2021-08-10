@@ -6,6 +6,7 @@ const StyledContainer = styled.div`
   width: 100%;
 `;
 
+
 const StyledLabel = styled.label`
   color: #868686;
   font-family: "Fira Sans";
