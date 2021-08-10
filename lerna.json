@@ -7,7 +7,7 @@
   "version": "independent",
   "command": {
     "publish": {
-      "registry": "https://npm.pkg.github.com/ramirezfmau/",
+      "registry": "https://npm.pkg.github.com/ramirezfmau/storybookExample/",
       "ignoreChanges": [
         ".babelrc",
         ".eslintrc.js",
