@@ -1,5 +1,5 @@
 {
-  "name": "@mauriciorf/input",
+  "name": "input",
   "version": "1.0.22",
   "description": "Modular and customizable Design UI components for the web",
   "private": false,
@@ -40,5 +40,6 @@
   },
   "publishConfig": {
     "@ramirezfmau:registry": "https://npm.pkg.github.com"
-  }
+  },
+  "gitHead": "2946edf7541c3cfd08b005f0d717e2e182a2871e"
 }
