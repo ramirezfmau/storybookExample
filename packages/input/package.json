@@ -1,6 +1,6 @@
 {
-  "name": "@ramirezfmau/button",
-  "version": "1.0.33",
+  "name": "@ramirezfmau/buttons",
+  "version": "1.0.35",
   "description": "Modular and customizable Design UI components for the web",
   "private": false,
   "license": "MIT",
@@ -13,8 +13,17 @@
   "directories": {
     "lib": "lib"
   },
+  "bugs": {
+    "url": "https://github.com/ramirezfmau/storybookExample/issues",
+    "email": "ramirezfmau@gmail.com"
+  },
   "author": "Mauricio Ramirez ramirezfmau@gmail.com",
-  "homepage": "//github.com/ramirezfmau/storybookExample/",
+  "homepage": "https://github.com/ramirezfmau/storybookExample/packages/input#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramirezfmau/storybookExample.git",
+    "directory": "packages/input"
+  },
   "dependencies": {
     "prop-types": "15.7.2",
     "react": "16.12.0",
