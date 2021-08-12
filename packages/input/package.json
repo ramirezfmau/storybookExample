@@ -1,6 +1,6 @@
 {
-  "name": "@ramirezfmau/buttons",
-  "version": "1.0.36",
+  "name": "@flcomponents/buttons",
+  "version": "1.0.0",
   "description": "Modular and customizable Design UI components for the web",
   "private": false,
   "license": "MIT",
@@ -18,7 +18,7 @@
     "email": "ramirezfmau@gmail.com"
   },
   "author": "Mauricio Ramirez ramirezfmau@gmail.com",
-  "homepage": "https://github.com/ramirezfmau/storybookExample/packages/input#readme",
+  "homepage": "https://artifactory.tools.finishline.com/artifactory/api/npm/npm",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ramirezfmau/storybookExample.git",
@@ -39,7 +39,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://artifactory.tools.finishline.com/artifactory/api/npm/npm/"
   },
-  "gitHead": "acd82dedceb6a03efd59ad4c41bb478d56276146"
+  "gitHead": "79b931c0bb2e37374b4a493a70e1d83e4b2a6760"
 }
